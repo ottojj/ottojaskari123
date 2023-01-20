@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(221, 245, 220);
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    color:white
+}
+
+.red {
+    background-color: brown;
+}
+
+footer{
+    text-align: center;
+    height: 70px;
+}
+
+.coral{
+    background-color: coral;
+}
+
+.slateblue{
+    background-color: slateblue;
+}
+
+.pink{
+    background-color: pink;
+}
