@@ -1,3 +1,5 @@
+- name: GitHub Script
+uses: actions/github-script@v7.0.1            
 name: ymltest # The name of the workflow
 on: # This action will trigger when an issue is reopened or opened.
   issues:
